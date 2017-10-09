@@ -14,6 +14,7 @@
 #include "globalconfig.h"
 
 /**
+
  * \struct PtpdCounters
  * \brief Ptpd engine counters per port
  */
